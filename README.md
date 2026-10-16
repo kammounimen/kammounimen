@@ -7,8 +7,7 @@
 
 <img src="assets/title-projects.svg" width="100%" alt="Projets" />
 
-<!-- TODO: lien du dépôt ICT (seulement si l'entreprise l'autorise) : le dépôt erp-ai-laminas est privé -->
-<a href="https://github.com/kammounimen?tab=repositories"><img src="assets/card-ict.svg" width="100%" alt="Stage ICT — Plateforme IA de gestion de factures" /></a>
+<a href="https://github.com/kammounimen/erp-ai-laminas"><img src="assets/card-ict.svg" width="100%" alt="Stage ICT — Plateforme IA de gestion de factures" /></a>
 
 <a href="https://github.com/kammounimen/FogWatch"><img src="assets/card-fogwatch.svg" width="49%" alt="FogWatch" /></a>
 <a href="https://github.com/kammounimen/langGraph"><img src="assets/card-tests-ia.svg" width="49%" alt="Plateforme de tests fonctionnels IA" /></a>
@@ -42,4 +41,4 @@
 <a href="mailto:imen.kammoun@enis.tn"><img src="assets/contact-email.svg" width="32%" alt="Email" /></a>
 <a href="https://github.com/kammounimen"><img src="assets/contact-github.svg" width="32%" alt="GitHub" /></a>
 
-<img src="assets/footer.svg" width="100%" alt="git commit -m open to internship" />
+<img src="assets/footer.svg" width="100%" alt="git commit -m open to PFE" />
