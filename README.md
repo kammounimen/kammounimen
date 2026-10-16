@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Imen Kammoun — Ingénierie Informatique · IA & Full-Stack" />
+<img src="assets/banner.svg" width="100%" alt="Imen Kammoun — Élève ingénieure en Génie Informatique · IA & Full-Stack" />
 
 <img src="assets/title-about.svg" width="100%" alt="À propos" />
 <img src="assets/about.svg" width="100%" alt="À propos de moi" />
