@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Imen Kammoun — Élève ingénieure en Génie Informatique · IA & Full-Stack" />
+<img src="assets/banner.svg" width="100%" alt="Imen Kammoun — Élève ingénieure en Génie Informatique" />
 
 <img src="assets/title-about.svg" width="100%" alt="À propos" />
 <img src="assets/about.svg" width="100%" alt="À propos de moi" />
@@ -7,18 +7,24 @@
 
 <img src="assets/title-projects.svg" width="100%" alt="Projets" />
 
-<!-- TODO: lien du dépôt ICT (seulement si l'entreprise l'autorise) -->
-<a href="https://github.com/kammounimen?tab=repositories"><img src="assets/card-ict.svg" width="100%" alt="Stage ICT — Plateforme IA de gestion de factures" /></a>
+<!-- Cartes sans lien : dépôt privé ou pas encore publié (ICT, ERP, agent BI). -->
+<img src="assets/card-ict.svg" width="49%" alt="Stage ICT — Plateforme IA de gestion de factures" />
+<img src="assets/card-erp.svg" width="49%" alt="ERP augmenté par l'IA (dépôt privé)" />
 
 <a href="https://github.com/kammounimen/FogWatch"><img src="assets/card-fogwatch.svg" width="49%" alt="FogWatch" /></a>
-<a href="https://github.com/kammounimen/langGraph"><img src="assets/card-tests-ia.svg" width="49%" alt="Plateforme de tests fonctionnels IA" /></a>
-<!-- TODO: dépôt de l'agent BI -->
-<a href="https://github.com/kammounimen?tab=repositories"><img src="assets/card-agent-bi.svg" width="49%" alt="Agent IA d'analyse de performance" /></a>
+<a href="https://github.com/kammounimen/langGraph"><img src="assets/card-tests-ia.svg" width="49%" alt="Tests fonctionnels pilotés par IA" /></a>
+
+<a href="https://github.com/kammounimen/RagAndLoopVersionTestProject"><img src="assets/card-rag.svg" width="49%" alt="RAG et boucle de génération de tests" /></a>
+<img src="assets/card-agent-bi.svg" width="49%" alt="Agent IA d'analyse de performance" />
+
 <a href="https://github.com/kammounimen/projet_ml_retail"><img src="assets/card-churn.svg" width="49%" alt="Prédiction de churn" /></a>
-<!-- TODO: dépôt Big Data / Hadoop -->
-<a href="https://github.com/kammounimen?tab=repositories"><img src="assets/card-hadoop.svg" width="49%" alt="Big Data e-commerce" /></a>
-<!-- TODO: dépôt du simulateur KPIT (si autorisé) -->
-<a href="https://github.com/kammounimen?tab=repositories"><img src="assets/card-automotive.svg" width="49%" alt="Simulateur de communication automobile" /></a>
+<a href="https://github.com/kammounimen/hadoop-project"><img src="assets/card-hadoop.svg" width="49%" alt="Big Data e-commerce" /></a>
+
+<a href="https://github.com/kammounimen/automotive-comm-simulator"><img src="assets/card-automotive.svg" width="49%" alt="Simulateur de communication automobile" /></a>
+<a href="https://github.com/kammounimen/Sign-Language-Recognition-System"><img src="assets/card-sign.svg" width="49%" alt="Reconnaissance de langue des signes" /></a>
+
+<a href="https://github.com/kammounimen/AWS_Vehicle_Tracker"><img src="assets/card-aws.svg" width="49%" alt="Suivi de véhicules sur AWS" /></a>
+<a href="https://github.com/kammounimen/microservices"><img src="assets/card-microservices.svg" width="49%" alt="Architecture microservices" /></a>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
