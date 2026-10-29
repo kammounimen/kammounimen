@@ -9,6 +9,8 @@
 
 <a href="https://github.com/kammounimen/erp-ai-laminas"><img src="assets/card-ict.svg" width="100%" alt="Stage ICT — Plateforme IA de gestion de factures" /></a>
 
+<p align="right"><a href="https://github.com/kammounimen/ERP-AI"><img src="assets/btn-ict-agent.svg" width="290" alt="Dépôt ERP-AI : agent IA" /></a>&nbsp;<a href="https://github.com/kammounimen/erp-ai-laminas"><img src="assets/btn-ict-erp.svg" width="290" alt="Dépôt erp-ai-laminas : ERP Laminas" /></a></p>
+
 <a href="https://github.com/kammounimen/langGraph"><img src="assets/card-tests-ia.svg" width="49%" alt="Plateforme de tests IA — agents LangGraph, Spring Boot, RAG" /></a>
 <a href="https://github.com/kammounimen/FogWatch"><img src="assets/card-fogwatch.svg" width="49%" alt="FogWatch — détection collaborative d'attaques (Fog Computing)" /></a>
 <a href="https://github.com/kammounimen/SLRResearchAI"><img src="assets/card-slr-research-ai.svg" width="49%" alt="SLRResearchAI — assistant LLM pour revues systématiques" /></a>
