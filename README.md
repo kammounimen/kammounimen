@@ -7,9 +7,7 @@
 
 <a href="#"><img src="assets/title-projects.svg" width="100%" alt="Projets" /></a>
 
-<a href="https://github.com/kammounimen/erp-ai-laminas"><img src="assets/card-ict.svg" width="100%" alt="Stage ICT — Plateforme IA de gestion de factures" /></a>
-
-<p align="right"><a href="https://github.com/kammounimen/ERP-AI"><img src="assets/btn-ict-agent.svg" width="290" alt="Dépôt ERP-AI : agent IA" /></a>&nbsp;<a href="https://github.com/kammounimen/erp-ai-laminas"><img src="assets/btn-ict-erp.svg" width="290" alt="Dépôt erp-ai-laminas : ERP Laminas" /></a></p>
+<p><a href="https://github.com/kammounimen/erp-ai-laminas"><img align="top" src="assets/card-ict-top.svg" width="99.9000%" alt="Stage ICT — Plateforme IA de gestion de factures" /></a><br><a href="https://github.com/kammounimen/erp-ai-laminas"><img align="top" src="assets/card-ict-left.svg" width="66.6000%" alt="Stage ICT — technologies" /></a><a href="https://github.com/kammounimen/ERP-AI"><img align="top" src="assets/card-ict-btn1.svg" width="17.0663%" alt="Dépôt ERP-AI : agent IA" /></a><a href="https://github.com/kammounimen/erp-ai-laminas"><img align="top" src="assets/card-ict-btn2.svg" width="16.2338%" alt="Dépôt erp-ai-laminas : ERP Laminas" /></a></p>
 
 <a href="https://github.com/kammounimen/langGraph"><img src="assets/card-tests-ia.svg" width="49%" alt="Plateforme de tests IA — agents LangGraph, Spring Boot, RAG" /></a>
 <a href="https://github.com/kammounimen/FogWatch"><img src="assets/card-fogwatch.svg" width="49%" alt="FogWatch — détection collaborative d'attaques (Fog Computing)" /></a>
